@@ -26,3 +26,5 @@
 ## 方案选型
 
 发布流 lerna+依赖管理 yarn workspace
+
+使用原因：项目复杂度不高，体积小，优先选择轻量化方案；相比于 pnpm，lerna 对于流程管理和发布管理的能力更强。之后可以考虑升级为 pnpm workspace + lerna 的方案，兼容两者优点
