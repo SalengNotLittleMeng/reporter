@@ -1,0 +1,26 @@
+{
+  "name": "reporter",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "闫韬蒙 <3094969938@qq.com>",
+  "homepage": "https://github.com/SalengNotLittleMeng/reporter#readme",
+  "license": "ISC",
+  "main": "lib/reporter.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalengNotLittleMeng/reporter.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/reporter.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/SalengNotLittleMeng/reporter/issues"
+  }
+}
